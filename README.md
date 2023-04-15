@@ -7,6 +7,7 @@ Web Developer
 <img width="100%" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
 I am pursuing Btech in Computer Science while exploring different things. I am very grateful that one of my mentors introduced me to few technical jargons like Blockchain, AWS, Web3, AI, etc. At that moment, some spark incited within me to explore these jargon.
+
 From that moment I started working in the field of computer science which taught me many things like 
 • One should have to be patient so as to debug your code 
 • Need to work in a team if you wanna achieve wonders and make some awesome products 
