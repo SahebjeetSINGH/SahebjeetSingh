@@ -39,7 +39,7 @@
   </a>
  <a href="https://mail.google.com/mail/u/1/#inbox">
     <img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
-    <p>jasm7314@gmail.com</p>
+    <p>sahebjeet2001@gmail.com</p>
   </a>
   
 </div>
