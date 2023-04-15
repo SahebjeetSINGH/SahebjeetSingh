@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-<img width="100%" src="[https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif%22%3E](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)">
+
+<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif%22%3E](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
 I am pursuing Btech in Computer Science while exploring different things. I am very grateful that one of my mentors introduced me to few technical jargons like Blockchain, AWS, Web3, AI, etc. At that moment, some spark incited within me to explore these jargon.
 From that moment I started working in the field of computer science which taught me many things like 
