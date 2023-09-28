@@ -9,7 +9,6 @@ I am pursuing Btech in Computer Science while exploring different things. I am v
 
 * 🌍  I'm based in India , New Delhi
 * ✉️  You can contact me at [sahebjeet2001@gmail.com](mailto:sahebjeet2001@gmail.com)
-* 🚀  I'm currently working on [JEDI (Dapp)](http://https://github.com/SahebjeetSINGH/JEDI)
 * 🧠  I'm learning NodeJS
 
 ### Skills
