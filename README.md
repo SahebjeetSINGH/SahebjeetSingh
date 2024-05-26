@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-<img width="100%" src="[https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg4dGcxNHVybGh5Mzlpd3AwMDJxc2NlYXlsdml6NDhnNzRjc2ttZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif)">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg4dGcxNHVybGh5Mzlpd3AwMDJxc2NlYXlsdml6NDhnNzRjc2ttZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">
 
 I am pursuing Btech in Computer Science while exploring different things. I am very grateful that one of my mentors introduced me to few technical jargon like Blockchain, AWS, Web3, AI, etc. At that moment, some spark incited within me to explore this jargon. • Never hesitate to google anything, overall it's your best teacher ;)
 
