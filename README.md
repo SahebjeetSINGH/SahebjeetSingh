@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahebjeet singh
 =======================================================================================================================================
 
-Web Developer
+was a Web Developer
 -------------
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpNXFldDZzMGxyamFjeGc0bHFram5tM3I2emV1aGZja2F6d2NtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
